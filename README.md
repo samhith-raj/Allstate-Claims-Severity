@@ -1,2 +1,2 @@
 # Allstate-Claims-Severity
-cnjnejcvjev
+How severe is an insurance claim?
